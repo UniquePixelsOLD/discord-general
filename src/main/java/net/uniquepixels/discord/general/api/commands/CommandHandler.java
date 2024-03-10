@@ -6,9 +6,9 @@ import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEve
 import net.dv8tion.jda.api.events.interaction.command.UserContextInteractionEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import net.dv8tion.jda.api.requests.restaction.CommandListUpdateAction;
-import net.uniquepixels.support.api.commands.messagecommands.MessageCommand;
-import net.uniquepixels.support.api.commands.slashcommands.SlashCommand;
-import net.uniquepixels.support.api.commands.usercommands.UserCommand;
+import net.uniquepixels.discord.general.api.commands.messagecommands.MessageCommand;
+import net.uniquepixels.discord.general.api.commands.slashcommands.SlashCommand;
+import net.uniquepixels.discord.general.api.commands.usercommands.UserCommand;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;

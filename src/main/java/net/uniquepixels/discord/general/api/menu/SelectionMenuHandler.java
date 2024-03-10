@@ -3,8 +3,8 @@ package net.uniquepixels.discord.general.api.menu;
 import net.dv8tion.jda.api.events.interaction.component.EntitySelectInteractionEvent;
 import net.dv8tion.jda.api.events.interaction.component.StringSelectInteractionEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
-import net.uniquepixels.support.api.menu.entity.EntitySelectionMenu;
-import net.uniquepixels.support.api.menu.string.StringSelectionMenu;
+import net.uniquepixels.discord.general.api.menu.entity.EntitySelectionMenu;
+import net.uniquepixels.discord.general.api.menu.string.StringSelectionMenu;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;

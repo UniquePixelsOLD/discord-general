@@ -2,17 +2,17 @@ package net.uniquepixels.discord.general.api;
 
 
 import net.dv8tion.jda.api.JDABuilder;
-import net.uniquepixels.support.api.buttons.Button;
-import net.uniquepixels.support.api.buttons.ButtonHandler;
-import net.uniquepixels.support.api.commands.CommandHandler;
-import net.uniquepixels.support.api.commands.messagecommands.MessageCommand;
-import net.uniquepixels.support.api.commands.slashcommands.SlashCommand;
-import net.uniquepixels.support.api.commands.usercommands.UserCommand;
-import net.uniquepixels.support.api.menu.SelectionMenuHandler;
-import net.uniquepixels.support.api.menu.entity.EntitySelectionMenu;
-import net.uniquepixels.support.api.menu.string.StringSelectionMenu;
-import net.uniquepixels.support.api.modal.Modal;
-import net.uniquepixels.support.api.modal.ModalHandler;
+import net.uniquepixels.discord.general.api.buttons.Button;
+import net.uniquepixels.discord.general.api.buttons.ButtonHandler;
+import net.uniquepixels.discord.general.api.commands.CommandHandler;
+import net.uniquepixels.discord.general.api.commands.messagecommands.MessageCommand;
+import net.uniquepixels.discord.general.api.commands.slashcommands.SlashCommand;
+import net.uniquepixels.discord.general.api.commands.usercommands.UserCommand;
+import net.uniquepixels.discord.general.api.menu.SelectionMenuHandler;
+import net.uniquepixels.discord.general.api.menu.entity.EntitySelectionMenu;
+import net.uniquepixels.discord.general.api.menu.string.StringSelectionMenu;
+import net.uniquepixels.discord.general.api.modal.Modal;
+import net.uniquepixels.discord.general.api.modal.ModalHandler;
 
 public class APIHandler {
     private final ButtonHandler buttonHandler;
